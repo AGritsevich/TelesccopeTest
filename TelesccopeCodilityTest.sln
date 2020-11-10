@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task1", "TelesccopeCodilityTest.vcxproj", "{0C9D10B1-09D0-48ED-8AC9-9A48382831E7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task2", "..\Task2\Task2.vcxproj", "{BB61D0EA-4E82-48C2-AB96-53FC7FC51D7F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task2", "Task2\Task2.vcxproj", "{BB61D0EA-4E82-48C2-AB96-53FC7FC51D7F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task3", "..\Task3\Task3.vcxproj", "{5101C33B-6276-47E7-8D59-07C2D74DB641}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task3", "Task3\Task3.vcxproj", "{5101C33B-6276-47E7-8D59-07C2D74DB641}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
